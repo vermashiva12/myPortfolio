@@ -12,9 +12,9 @@ const Contact = () => {
 
             
             </div>
-            <input className='p-2 bg-gray-100' type=" text" placeholder='Name' name='name' />
-            <input className='my-4 p-2 bg-grey-100 '  type=" email" placeholder='Email' name='email' />
-            <textarea className='bg-gray-100 p-2' name='message' rows='10' placeholder='Message'></textarea>
+            <input className='p-2 bg-gray-100 text-black' type=" text" placeholder='Name' name='name' />
+            <input className='my-4 p-2 bg-grey-100 text-black '  type=" email" placeholder='Email' name='email' />
+            <textarea className='bg-gray-100 p-2 text-black' name='message' rows='10' placeholder='Message'></textarea>
             <button className=' bg-black text-gray-100  border-2 hover:bg-[#b1cb58] hover:border-gray-300 px-4 py-3 my-8 mx-auto flex items-center'>Let's Collaborate</button>
             <button className=' bg-black text-gray-100 border-2 hover:bg-blue-500 hover:border-gray-300 px-4 py-3 my-2 mx-auto flex items-center'>
             <Link  to="home"  smooth={true} duration={500}>
