@@ -13,7 +13,7 @@ const Footer = () => {
             
         </div>
         <div>
-            <p className='text-right '> Copyright @ 2023 Shivanshu Verma. All Rights Reserved </p>
+            <p className='text-right text-[11px] '> Copyright @ 2023 Shivanshu Verma. All Rights Reserved </p>
         </div>
     </div>
     
