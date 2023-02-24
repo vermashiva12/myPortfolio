@@ -14,7 +14,7 @@ const Home = () => {
           <p className='font-bold text-center justify-center text-[40px] py-2 '>Welcome to My Portfolio !!</p>
         </div>
         
-        <div className='w-full grid grid-cols-2 gap-4 text-center py-6'>
+        <div className='w-full grid grid-cols-2 sm:grid-cols-1 gap-4 text-center py-6'>
                 <div className='shadow-lg hover:scale-110 duration-500 '>
                     <img src={ME} alt="ME" className='w-20 mx-auto ' style={{width: '350px', height:'420px'}}/>
                    
