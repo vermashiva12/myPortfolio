@@ -32,7 +32,7 @@ const Home = () => {
       </div>
       <div className=' mx-auto justify-center'>
                 <button className='border-2 group px-5 py-3 my-2 flex items-center hover: bg-black hover:border-white'>
-                <Link  to="work"  smooth={true} duration={500}>
+                <Link  to="Projects"  smooth={true} duration={500}>
           View Projects
         </Link>
                 <span className='group-hover:rotate-90 duration-300'>
