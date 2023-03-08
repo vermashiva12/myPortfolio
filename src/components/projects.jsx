@@ -28,7 +28,7 @@ const Projects  = () => {
                         </div>
                     </div>
                     </div>
-                <div style={{backgroundImage: `url(${p1})` }} className='shadow-lg shadow-white group container rounded-md flex justify-center items-center mx-auto content-div'>
+                <div style={{backgroundImage: `url(${p1})` }} className='shadow-lg shadow-white group container rounded-md flex gap-2 justify-center items-center mx-auto content-div'>
                     
                     {/** Hover Effect */}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -43,7 +43,7 @@ const Projects  = () => {
                         </div>
                     </div>
                 </div>
-                <div style={{backgroundImage: `url(${p2})` }} className='shadow-lg shadow-white group container rounded-md flex justify-center items-center mx-auto content-div'>
+                <div style={{backgroundImage: `url(${p2})` }} className='shadow-lg shadow-white gap-2 group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/** Hover Effect */}
                     <div className='opacity-0 group-hover:opacity-100'>
