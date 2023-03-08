@@ -3,7 +3,7 @@ import {Link} from 'react-scroll'
 
 const Contact = () => {
   return (
-    <div name='contact' className='w-full  bg-[#31335b] flex justify-center items-center p-4 text-gray-100'>
+    <div name='contact' className='w-full  bg-[#31335b] flex justify-center items-center py-6 p-4 text-gray-100'>
        <div >
         <form method='POST' action='https://getform.io/f/2f03fb28-2d9b-4a67-94c7-953faa21e145' className='flex flex-col max-w-[600px]  w-full'>
             <div className='pb-8  '>
