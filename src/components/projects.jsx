@@ -13,7 +13,7 @@ const Projects  = () => {
                 <p className='py-6'>Check Out some of My Recent Projects </p>
             </div>
             <div 
-            className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6'>
+            className='grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-6'>
                 
                 <div style={{backgroundImage: `url(${p3})` }} className='shadow-lg shadow-white group container rounded-md flex justify-center items-center mx-auto content-div'>
                 <div className='opacity-0 group-hover:opacity-100'>
