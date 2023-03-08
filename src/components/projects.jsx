@@ -7,7 +7,7 @@ import p3 from '../assets/project3.png'
 const Projects  = () => {
   return (
     <div name='Projects' className='w-full  h-screen text-gray-100  bg-[#31335b]'> 
-        <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+        <div className='max-w-[1140px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 text-gray-100 border-[#b1cb58]'>Projects</p>
                 <p className='py-6'>Check Out some of My Recent Projects </p>
