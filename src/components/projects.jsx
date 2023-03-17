@@ -28,7 +28,7 @@ const Projects  = () => {
                         </div>
                     </div>
                     </div>
-                    <div style={{backgroundImage: `url(${p4})` }} className='shadow-lg shadow-white group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${p4})`, width: '200px' }} className='shadow-lg shadow-white group container rounded-md flex justify-center items-center mx-auto content-div'>
                 <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-gray-100 tracking-wider'>
                            ToDo List App Using CRUD Operations
