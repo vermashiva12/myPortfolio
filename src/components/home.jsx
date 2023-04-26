@@ -20,7 +20,7 @@ const Home = () => {
         <div className='py-16'>
             <p>Hi, My Name is </p>
             <h1 className='text-4xl sm:text-7xl font-bold'> Shivanshu Verma</h1>
-            <h2 className='text-4xl sm:text-6xl font-bold'> I'm a Cloud/Devops Engineer</h2>
+            <h2 className='text-4xl sm:text-6xl font-bold'> I'm a Solutions Architect/DevOps Engineer</h2>
             <p className='py-4 max-w-[1000px]'>I'm a Cloud Engineer specializing in developing, maintaining cloud Operations. Currently I'm focused on building responsive web applications.</p>
            
         
