@@ -4,7 +4,7 @@ import { HiOutlineMail } from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import Logo from '../assets/logo.svg'
 import {Link} from 'react-scroll'
-import Re from '../assets/AA_SHiva_Resume.pdf'
+import Re from '../assets/AAAAA.pdf'
 
 
 export const Navbar = () => {
